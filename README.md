@@ -5,7 +5,7 @@
 ![Generic badge](https://img.shields.io/badge/release-v1.2-blue)
 
 
-![IMG_0521](assets/at1x_fusion1.png) 
+![AT1X](assets/at1x_fusion1.png) 
 
 This repository contents the documentation of the ORTHOPUS' AT1X Arm Support which is currently under development.
 
@@ -17,7 +17,7 @@ The motorized joint receive commands via a 2-buttons remote : one tu upper the a
 
 There is also a wheelchair fixation to install the arm support on the wheelchair.
 
-![IMG_0521](assets/IMG_0521.jpg) 
+![WHEELCHAIR_FIXATION](assets/wheelchair_fixation_fusion.png) 
 
 
 

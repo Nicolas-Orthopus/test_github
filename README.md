@@ -17,7 +17,7 @@ The motorized joint receive commands via a 2-buttons remote : one tu upper the a
 
 There is also a wheelchair fixation to install the arm support on the wheelchair.
 
-![WHEELCHAIR_FIXATION](assets/wheelchair_fixation_fusion.png) 
+
 
 
 

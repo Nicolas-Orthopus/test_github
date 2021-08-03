@@ -41,13 +41,6 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 🧐 *Tip : open the image in a new tab to view the wheelchair fixation in Fusion 360 viewer*
 
 
-### About software : embedded source code release notes
-
-Few details :
-- IDE used : VSCode + ROS + Ubuntu 20.4
-- Target platform : Arduino ? Rasberry Pi ? 
-
-
 ### About hardware : mechanical design release notes
 
 Please note that :

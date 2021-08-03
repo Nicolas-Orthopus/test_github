@@ -45,18 +45,16 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 Few details :
 - IDE used : VSCode + ROS + Ubuntu 20.4
-- Target platform : ???
+- Target platform : Arduino ? Rasberry Pi ? 
 
 
 ### About hardware : mechanical design release notes
 
 Please note that :
-- the current version is using PLA 3D-printed part and carbon tubes
+- the current version is using PLA 3D-printed parts and carbon tubes
 - the actuator is a Kinova KA-75. In further developments, this arm support will have its own actuator 
 - cables are not represented (to be precised) 
-- screws are not represented (to be precised)
-- others components may be missing to build an entire prototype
-
+- screws are not represented (not sure)
   
 
 
@@ -65,7 +63,7 @@ Please note that :
 Your contribution to these projects is welcome!
 
 * Have you discovered a bug or you have an improvement ideas ?
-  * Go to the GitHub [issues](https://github.com/orthopus/01-prosthetic-myo-hand/issues) of the project.
+  * Go to the GitHub [issues](https://github.com/Nicolas-Orthopus/test_github/issues) of the project.
 * You have time, some Maker skills and you want to help us ?
   * Read the [CONTRIBUTING](CONTRIBUTING.md) file to help us to upgrade this project
   * Read the [CODEOFCONDUCT](CODEOFCONDUCT.md) file to know community standards

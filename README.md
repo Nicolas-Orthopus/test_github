@@ -9,11 +9,11 @@
 
 This repository contents the documentation of the ORTHOPUS' AT1X Arm Support which is currently under development.
 
-This arm support is a motorized device designed to provide technical assistance to people with disabilities by compensating the upper limb and relieve the user facilitating their mothion. It helps the user to reach, grip and handle objects as wekk as oerfirl activities of daily leaving.  
+This arm support is a motorized device designed to provide technical assistance to people with disabilities by compensating the upper limb and relieve the user facilitating their motion. It helps the user to reach, grip and handle objects as well as perform activities of daily life.
   
 This arm support have 1 free plannar mechanism, 1 actuator-controlled joint and one orthesis.  
 
-The motorized joint receive commands via a 2-buttons remote : one tu upper the arm, and one to lower it.
+The motorized joint receive commands via a 2-buttons remote : one to upper the arm, and one to lower it.
 
 There is also a wheelchair fixation to install the arm support on the wheelchair.
 
@@ -41,14 +41,6 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 🧐 *Tip : open the image in a new tab to view the wheelchair fixation in Fusion 360 viewer*
 
 
-### About hardware : mechanical design release notes
-
-Please note that :
-- the current version is using PLA 3D-printed parts and carbon tubes
-- the actuator is a Kinova KA-75. In further developments, this arm support will have its own actuator 
-- cables are not represented (to be precised) 
-- screws are not represented (not sure)
-  
 
 
 ## CONTRIBUTION
